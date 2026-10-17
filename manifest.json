@@ -1,0 +1,20 @@
+{
+  "name": "وين راحو دراهمي؟",
+  "short_name": "دراهمي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f3",
+  "theme_color": "#f6eeea",
+  "description": "متابعة المصروفات والرصيد الشهري واحتياط الطوارئ",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
